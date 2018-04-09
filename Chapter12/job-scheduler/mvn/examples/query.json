@@ -1,0 +1,10 @@
+{
+  "name": "See all people",
+  "command": "SELECT * FROM people",
+  "frequency": "Hourly",
+  "type": "Sql",
+  "time_options": {
+    "hours": 21,
+    "minutes": 5
+  }
+}
