@@ -6,7 +6,6 @@ Design patterns make developers’ lives easier by helping them write great soft
 ## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
-All the code files are present in their respective code folders.
 
 The code will look like the following:
 ```
@@ -23,6 +22,3 @@ This book assumes that the reader is already familiar with Scala. We have provid
 * [Learning Scala Programming](https://www.packtpub.com/application-development/learning-scala-programming?utm_source=github&utm_medium=repository&utm_campaign=9781788392822)
 
 * [Scala Beginner Programming Recipes [Video]](https://www.packtpub.com/application-development/scala-beginner-programming-recipes-video?utm_source=github&utm_medium=repository&utm_campaign=9781788295567)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
