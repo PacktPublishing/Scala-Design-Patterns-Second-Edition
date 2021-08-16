@@ -1,4 +1,4 @@
-lazy val chapter01 = (project in file("./Chapter01/skeleton-mvn/"))
+lazy val chapter01 = (project in file("./Chapter01/skeleton-sbt/"))
 lazy val chapter02 = (project in file("./Chapter02/sbt/"))
 lazy val chapter03 = (project in file("./Chapter03/sbt/"))
 lazy val chapter04 = (project in file("./Chapter04/sbt/"))
