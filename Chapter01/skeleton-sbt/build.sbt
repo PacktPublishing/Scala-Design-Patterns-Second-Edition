@@ -11,7 +11,7 @@ javaOptions ++= Seq("-target", "1.8", "-source", "1.8")
 publishMavenStyle := true
 
 libraryDependencies ++= {
-  val sparkVersion = "2.2.0"
+  val sparkVersion = "2.2.3"
   Seq(
     "org.apache.spark" % "spark-core_2.11" % sparkVersion % "provided",
     "com.datastax.spark" % "spark-cassandra-connector_2.11" % "2.0.5",
