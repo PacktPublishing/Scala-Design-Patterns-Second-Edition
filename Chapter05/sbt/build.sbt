@@ -12,7 +12,7 @@ publishMavenStyle := true
 
 libraryDependencies ++= {
   Seq(
-    "org.json4s" %% "json4s-jackson" % "3.6.0-M2",
+    "org.json4s" %% "json4s-jackson" % "3.6.11",
     "org.scalatest" %% "scalatest" % "3.0.4" % "test",
     "org.mockito" % "mockito-all" % "1.10.19" % "test" // mockito for tests
   )
