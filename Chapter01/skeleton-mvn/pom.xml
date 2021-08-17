@@ -7,7 +7,7 @@
     <artifactId>skeleton-mvn</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <properties>
-        <scala.version>2.12.4</scala.version>
+        <scala.version>2.12.14</scala.version>
         <scalatest.version>3.0.4</scalatest.version>
         <spark.version>2.2.3</spark.version>
     </properties>

@@ -8,7 +8,7 @@
     <artifactId>abstract-types</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <properties>
-        <scala.version>2.12.4</scala.version>
+        <scala.version>2.12.14</scala.version>
         <scalatest.version>3.0.4</scalatest.version>
     </properties>
 
