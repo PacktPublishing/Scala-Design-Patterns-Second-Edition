@@ -11,7 +11,7 @@
         <scala.version>2.12.4</scala.version>
         <scalatest.version>3.0.4</scalatest.version>
         <akka.version>2.5.32</akka.version>
-        <typesafe.config.version>1.3.4</typesafe.config.version>
+        <typesafe.config.version>1.4.1</typesafe.config.version>
         <json4s.version>3.6.0-M2</json4s.version>
     </properties>
 
