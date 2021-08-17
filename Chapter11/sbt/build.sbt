@@ -16,7 +16,7 @@ libraryDependencies ++= {
     "com.typesafe.scala-logging" %% "scala-logging" % "3.7.2",
     "commons-codec" % "commons-codec" % "1.11",
     "org.scalaz" %% "scalaz-core" % "7.2.20",
-    "com.h2database" % "h2" % "1.4.196",
+    "com.h2database" % "h2" % "1.4.200",
     "org.scalatest" %% "scalatest" % "3.0.4" % "test",
     "org.mockito" % "mockito-all" % "1.10.19" % "test" // mockito for tests
   )
