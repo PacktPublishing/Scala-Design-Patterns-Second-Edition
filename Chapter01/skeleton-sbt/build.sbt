@@ -12,7 +12,7 @@ publishMavenStyle := true
 
 libraryDependencies ++= {
     Seq(
-        "org.apache.spark" % "spark-core_2.11" % "2.2.0",
+        "org.apache.spark" % "spark-core_2.11" % "2.2.3",
         "com.datastax.spark" % "spark-cassandra-connector_2.11" % "2.0.5",
         "junit" % "junit" % "4.13.2" % "test",
         "org.scalatest" %% "scalatest" % "3.0.4" % "test",
