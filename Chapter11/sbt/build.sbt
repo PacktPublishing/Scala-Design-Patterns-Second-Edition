@@ -14,7 +14,7 @@ libraryDependencies ++= {
   Seq(
     "org.slf4j" % "slf4j-log4j12" % "1.7.32",
     "com.typesafe.scala-logging" %% "scala-logging" % "3.7.2",
-    "commons-codec" % "commons-codec" % "1.11",
+    "commons-codec" % "commons-codec" % "1.15",
     "org.scalaz" %% "scalaz-core" % "7.2.20",
     "com.h2database" % "h2" % "1.4.200",
     "org.scalatest" %% "scalatest" % "3.0.4" % "test",
