@@ -12,10 +12,10 @@ publishMavenStyle := true
 
 libraryDependencies ++= {
   val akkaVersion = "2.5.11"
-  val typesafeConfigVersion = "1.3.2"
+  val typesafeConfigVersion = "1.3.4"
   val json4sVersion = "3.6.0-M2"
   Seq(
-    "org.slf4j" % "slf4j-log4j12" % "1.7.25",
+    "org.slf4j" % "slf4j-log4j12" % "1.7.32",
     "com.typesafe.scala-logging" %% "scala-logging" % "3.7.2",
     "com.typesafe" % "config" % typesafeConfigVersion,
     "org.json4s" %% "json4s-native" % json4sVersion,
