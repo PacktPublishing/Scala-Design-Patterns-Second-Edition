@@ -15,7 +15,7 @@ libraryDependencies ++= {
   Seq(
     "org.json4s" %% "json4s-native" % json4sVersion,
     "org.json4s" %% "json4s-jackson" % json4sVersion,
-    "commons-codec" % "commons-codec" % "1.11",
+    "commons-codec" % "commons-codec" % "1.15",
     "org.slf4j" % "slf4j-log4j12" % "1.7.25",
     "com.typesafe.scala-logging" %% "scala-logging" % "3.7.2",
     "com.github.tototoshi" %% "scala-csv" % "1.3.5",
