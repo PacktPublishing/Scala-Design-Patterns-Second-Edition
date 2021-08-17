@@ -12,7 +12,7 @@ publishMavenStyle := true
 
 libraryDependencies ++= {
   Seq(
-    "org.slf4j" % "slf4j-log4j12" % "1.7.25",
+    "org.slf4j" % "slf4j-log4j12" % "1.7.32",
     "com.typesafe.scala-logging" %% "scala-logging" % "3.7.2",
     "commons-codec" % "commons-codec" % "1.11",
     "org.scalaz" %% "scalaz-core" % "7.2.20",
